@@ -1,0 +1,10 @@
+{
+    "header" :{
+        "message": "welcome to english section",
+        "mainline": "This Tutorial is for multilingual website demo."
+
+    },
+    "home" : {
+        "body" : "this is english body"
+    }
+}
